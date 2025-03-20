@@ -176,3 +176,4 @@ cython_debug/
 # user inputs
 *.csv
 *.sql
+.DS_Store
